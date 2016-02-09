@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Naslov</title>
+    <meta charset="UTF-8">
 <head>
 
 <body>
@@ -13,6 +14,13 @@
     echo('<br>');
     echo("Today's date: ");
     echo(date('d.m.Y'));
+    ?>
+</p>
+
+<p>
+    <?php
+    $dana_do_praznika = 45;
+    echo('Do praznika je još ostalo: <b>' .$dana_do_praznika . '</b>');
     ?>
 </p>
 </body>
