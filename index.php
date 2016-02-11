@@ -3,6 +3,9 @@
 <head>
     <title>Naslov</title>
     <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="prvi.css" />
+
+
 <head>
 
 <body>
